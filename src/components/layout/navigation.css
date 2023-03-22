@@ -1,0 +1,33 @@
+.navbar {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+.links {
+    padding: 10px 0px 10px 40px;
+    float: left;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    padding-left: 20px;
+}
+
+.links a:hover {
+    color: lightgray;
+}
+
+.badge {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    width: 60px;
+    border-radius: 8px;
+    text-align: center;
+}

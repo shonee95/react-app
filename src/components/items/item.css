@@ -1,0 +1,41 @@
+.listItem {
+    width: 400px;
+    height: 440px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.listImg {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.desc {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    padding: 8px;
+}
+.btn button {
+    width: 100%;
+    background: black;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 6px;
+}
+.btn button:hover {
+    background: gray;
+}
+
+.control {
+    text-align: center;
+}
